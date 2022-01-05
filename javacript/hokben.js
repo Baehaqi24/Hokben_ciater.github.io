@@ -10,7 +10,7 @@ window.addEventListener("scroll", function () {
   }
 });
 
-const hero = ["Ciater Tanggerang"];
+const hero = ["Ciater Tangerang"];
 let count = 0;
 let txtIndex = 0;
 let currentTxt = "";
@@ -30,5 +30,5 @@ let words = "";
     count++;
     txtIndex = 0;
   }
-  setTimeout(ngetik, 700);
+  setTimeout(ngetik, 520);
 })();
