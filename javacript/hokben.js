@@ -30,5 +30,5 @@ let words = "";
     count++;
     txtIndex = 0;
   }
-  setTimeout(ngetik, 520);
+  setTimeout(ngetik, 220);
 })();
