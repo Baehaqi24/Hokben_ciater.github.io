@@ -186,10 +186,32 @@ li {
 #sukiyaki {
   background-color: var(--mainColor) !important;
 }
-/* footer */
-.font4 {
-  font-family: Island Moments;
-  font-size: 15px;
+
+/* Pesan */
+
+#pesan {
+  background-color: var(--mainColor);
 }
 
+#pesan ol {
+  font-size: 20px;
+}
 
+textarea {
+  border-radius: 30px !important;
+}
+
+.form-control {
+  border-radius: 30px;
+}
+
+.form-select {
+  border-radius: 30px;
+}
+/* footer */
+.font4 {
+  font-family: 'popins', sans-serif;
+  font-size: 15px;
+  padding: 15px;
+  font-weight: bold;
+}
